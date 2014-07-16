@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GCDell8</Machine>
+    <WindowsUser>Grand</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>32522c7b-a1d6-4e82-8574-78b312081ee8</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Grand\Documents\GitHub\home_practice2\Save_the_humans\Save_the_humans\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>1B71EE03F79DC7937096B442BACD9242277C738819DC027BA0D28D9F28A639D9</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>32522c7b-a1d6-4e82-8574-78b312081ee8_1.0.0.0_neutral__1eqbft1gxtnd6</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>32522c7b-a1d6-4e82-8574-78b312081ee8_1eqbft1gxtnd6!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>32522c7b-a1d6-4e82-8574-78b312081ee8</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Grand</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Grand\Documents\GitHub\home_practice2\Save_the_humans\Save_the_humans\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-12T17:54:11.863</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Grand\Documents\GitHub\home_practice2\Save_the_humans\Save_the_humans\bin\Debug\Save_the_humans.exe">
+      <PackagePath>Save_the_humans.exe</PackagePath>
+      <Modified>2014-07-12T17:54:09.870</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grand\Documents\GitHub\home_practice2\Save_the_humans\Save_the_humans\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T10:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grand\Documents\GitHub\home_practice2\Save_the_humans\Save_the_humans\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T10:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grand\Documents\GitHub\home_practice2\Save_the_humans\Save_the_humans\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T10:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grand\Documents\GitHub\home_practice2\Save_the_humans\Save_the_humans\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T10:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grand\Documents\GitHub\home_practice2\Save_the_humans\Save_the_humans\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-07-12T17:54:08.944</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grand\Documents\GitHub\home_practice2\Save_the_humans\Save_the_humans\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-07-12T17:54:08.945</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grand\Documents\GitHub\home_practice2\Save_the_humans\Save_the_humans\bin\Debug\Save_the_humans.xr.xml">
+      <PackagePath>Save_the_humans.xr.xml</PackagePath>
+      <Modified>2014-07-12T17:54:08.768</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Grand\Documents\GitHub\home_practice2\Save_the_humans\Save_the_humans\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-07-12T17:54:10.736</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

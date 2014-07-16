@@ -1,0 +1,2 @@
+C:\Users\Grand\Documents\GitHub\home_practice2\pins_example\pins_example\bin\Debug\pins_example.exe.config
+C:\Users\Grand\Documents\GitHub\home_practice2\pins_example\pins_example\obj\Debug\pins_example.csprojResolveAssemblyReference.cache
